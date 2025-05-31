@@ -1,3 +1,3 @@
-# inforgraphic-tech-revo
+# infographic-tech-revo
 ---
-tech-revo-infographic.netlify.app
+[Click to view the site](https://tech-revo-infographic.netlify.app/)
